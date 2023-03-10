@@ -2,7 +2,7 @@
 
 SET SQLPATH= "C:\Program Files\MySQL\MySQL Server 8.0\bin"
 
-SET PATH= "C:\Users\User\Desktop\inquirer_mysql\db\"
+SET PATH= "C:\Users\nxtlo\bootcamp\employee_tracker_project"
 
 SET DB_NAME= "company_mgmt"
 
