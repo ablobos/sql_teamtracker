@@ -1,8 +1,8 @@
 @ECHO OFF
 
-SET SQLPATH= ""
+SET SQLPATH= "C:\Program Files\MySQL\MySQL Server 8.0\bin"
 
-SET PATH= ""
+SET PATH= "C:\Users\User\Desktop\inquirer_mysql\db\"
 
 SET DB_NAME= "company_mgmt"
 
