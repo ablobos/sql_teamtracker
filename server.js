@@ -1,4 +1,4 @@
-const db = require("./db/connect");
+const db = require("./dib/connect");
 const express = require("express");
 const startPolling = require("./lib/inquirer_handler")
 
